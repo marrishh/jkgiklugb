@@ -12,7 +12,7 @@ body{
     height: 100vh;
     background-color: black;
     overflow: hidden;
-    background-image: url(../img/125.jpg);
+    background-image: url(125.jpg);
     background-size: cover;
     background-repeat: no-repeat;
 }
